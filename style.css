@@ -1,0 +1,33 @@
+body{
+    color:#a2d2ff;
+    font-size: 16;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: #333533;
+}
+img{
+    width: 400;
+    border-radius: 8px;
+}
+h1{
+    color:#8338ec;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 32;
+    text-align:center;
+    text-transform: uppercase;
+}
+h2{
+    color:#f15bb5;
+    font-family: 'Courier New', Courier, monospace;
+    font: size 24;
+}
+u{
+    font-size: 22;
+}
+
+i{
+color: #FFF;
+background-color: black;
+}
+strong{
+    color:#060;
+}
